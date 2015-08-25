@@ -1,6 +1,3 @@
 [submodule "kevoree-dotnet-core-model"]
 	path = kevoree-dotnet-core-model
 	url = git@github.com:kevoree/kevoree-dotnet-core-model.git
-[submodule "kevoree-dotnet-core-kevscript"]
-	path = kevoree-dotnet-core-kevscript
-	url = git@github.com:kevoree/kevoree-dotnet-core-kevscript.git
